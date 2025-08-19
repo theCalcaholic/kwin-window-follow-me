@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Description": "Make windows follow you to the current desktop",
+    "Id": "windowsFollowCurrentDesktop",
+    "License": "MIT",
+    "Name": "Windows: Follow me!",
+    "Version": "0.0.1"
+  },
+  "X-KDE-ConfigModule": "kwin/effects/configs/kcm_kwin4_genericscripted",
+  "X-Plasma-API": "javascript"
+}
