@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="png" background="#fff" path="logo.png"/>
+    </bx:export>
+  </defs>
+  <g>
+    <g transform="matrix(1.120593, 0, 0, 1.120593, 9.255919, -6.662833)" style="">
+      <g style="" transform="matrix(0.663082, 0, 0, 0.663082, 95.363582, 20.435061)">
+        <rect x="8.038" y="7.293" width="482.292" height="482.292" style="stroke: rgb(0, 0, 0); stroke-linejoin: round; fill: rgb(80, 80, 80);"/>
+        <rect x="14.953" y="48.781" width="468.462" height="434.235" style="stroke-linejoin: round; stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);"/>
+      </g>
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 2px;" d="M 49.18 46.36 C 88.106 98.493 88.408 261.805 49.526 312.572"/>
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 2px;" d="M 29.18 46.36 C 68.106 98.493 68.408 261.805 29.526 312.572"/>
+      <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 2px;" d="M 9.18 46.36 C 48.106 98.493 48.408 261.805 9.526 312.572"/>
+      <path style="stroke: rgb(80, 80, 80); fill: none; stroke-width: 5px;" d="M 289.938 343.813 C 289.938 343.813 339.6225698997565 369.3227749878336 342.948 384.502 C 345.73802386331556 397.2373150521732 321.026 426.121 321.026 426.121" bx:d="M 289.938 343.813 R 342.948 384.502 R 321.026 426.121 1@77bb329f"/>
+      <path style="stroke: rgb(80, 80, 80); fill: none; stroke-width: 5px;" d="M 249.21 343.465 C 249.21 343.465 226.63141124802087 379.12297747296464 210.055 393.465 C 191.54568203445052 409.4793864223726 141.343 432.813 141.343 432.813" bx:d="M 249.21 343.465 R 210.055 393.465 R 141.343 432.813 1@ee42930d"/>
+    </g>
+  </g>
+</svg>

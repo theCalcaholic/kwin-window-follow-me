@@ -5,7 +5,7 @@
     "Id": "windowsFollowCurrentDesktop",
     "License": "MIT",
     "Name": "Windows: Follow me!",
-    "Version": "0.0.1"
+    "Version": "1.0.0"
   },
   "X-KDE-ConfigModule": "kwin/effects/configs/kcm_kwin4_genericscripted",
   "X-Plasma-API": "javascript"
